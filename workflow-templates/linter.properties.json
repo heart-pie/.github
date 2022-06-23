@@ -1,0 +1,7 @@
+{
+  "name": "Run Linters",
+  "description": "Run linters on the codebase",
+  "iconName": "linter-icon",
+  "categories": ["javascript", "typescript"],
+  "filePatterns": ["package.json"]
+}
